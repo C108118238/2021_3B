@@ -29,7 +29,7 @@
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
 
-![fig](NKUST1.jpg "海底圖")
+![fig](NKUST1.jpg "海域圖")
 
 ```python
 str="This is Sting"
