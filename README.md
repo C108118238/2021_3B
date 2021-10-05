@@ -37,3 +37,6 @@ print(str)
 ```
 
 ~Hello word~
+
+[x] todo list
+[] 2nd thing
