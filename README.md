@@ -35,3 +35,5 @@
 str="This is Sting"
 print(str)
 ```
+
+~Hello word~
