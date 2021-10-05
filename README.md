@@ -38,5 +38,5 @@ print(str)
 
 ~Hello word~
 
--[ ] todo list
--[x] 2nd thing
+- [x] todo list
+- [ ] 2nd thing
